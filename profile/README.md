@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://isheero.com/">
-  <img width="900" src="./assets/banner.png"></a>
+  <img width="900" src="https://github.com/iSheero-AI/.github-private/blob/main/profile/assets/banner.png"></a>
 </p>
 
 <div align="center">
@@ -43,9 +43,9 @@ Nous croyons que grâce à un effort collectif et une vision partagée, le Béni
 
 <br>
 <div align="center">
-<a href="https://github.com/isheero-ai"><img src="./assets/logo-github.png" width="3%" alt="Isheero GitHub"></a>
-<img src="./assets/logo-transparent.png" width="3%" alt="space">
-<a href="https://www.linkedin.com/company/isheero/"><img src="./assets/logo-linkedin.png" width="3%" alt="Isheero LinkedIn"></a>
-<img src="./assets/logo-transparent.png" width="3%" alt="space">
-<a href="https://www.youtube.com/@isheero"><img src="./assets/logo-youtube.png" width="3%" alt="Isheero YouTube"></a>
+<a href="https://github.com/isheero-ai"><img src="https://github.com/iSheero-AI/.github-private/blob/main/profile/assets/logo-github.png" width="3%" alt="Isheero GitHub"></a>
+<img src="https://github.com/iSheero-AI/.github-private/blob/main/profile/assets/logo-transparent.png" width="3%" alt="space">
+<a href="https://www.linkedin.com/company/isheero/"><img src="https://github.com/iSheero-AI/.github-private/blob/main/profile/assets/logo-linkedin.png" width="3%" alt="Isheero LinkedIn"></a>
+<img src="https://github.com/iSheero-AI/.github-private/blob/main/profile/assets/logo-transparent.png" width="3%" alt="space">
+<a href="https://www.youtube.com/@isheero"><img src="https://github.com/iSheero-AI/.github-private/blob/main/profile/assets/logo-youtube.png" width="3%" alt="Isheero YouTube"></a>
 </div>
