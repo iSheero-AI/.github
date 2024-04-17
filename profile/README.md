@@ -5,41 +5,41 @@
 
 <div align="center">
 
-Nous sommes [iSheero](https://isheero.com) - une association dédiée à nourrir et à étendre le domaine de l'intelligence artificielle au sein du Bénin et de la région africaine francophone. Notre engagement est d'ouvrir la voie à l'innovation et à l'excellence en matière d'IA à travers l'éducation, le mentorat et la création d'un écosystème local dynamique.
+We are [iSheero](https://isheero.com) - an association dedicated to nurturing and expanding the field of artificial intelligence within Benin and the French-speaking African region. Our commitment is to pave the way for AI innovation and excellence through education, mentoring and the creation of a vibrant local ecosystem.
 
 </div>
 
-## Notre vision 🚀
+## Our vision 🚀
 
-Chez isheero, nous visons à :
+At isheero, we aim to:
 
-### Former, encadrer et inspirer 🧠
+### Train, mentor and inspire 🧠
 
-- **Renforcer les capacités des jeunes** : Nous sommes passionnés par le mentorat de la prochaine génération de professionnels de l'IA. Grâce à nos programmes de formation, nous visons à équiper les jeunes Béninois de compétences de pointe en matière d'IA, débloquant ainsi de nouvelles voies et opportunités de carrière.
+- **Enhance the capabilities of young people**: We are passionate about mentoring the next generation of AI professionals. Through our training programs, we aim to equip young Beninese with cutting-edge AI skills, unlocking new career paths and opportunities.
 
-- **Inspirer par l'innovation** : Nous croyons au pouvoir de l'inspiration et à l'effet d'entraînement qu'elle a sur la création d'un avenir meilleur. En mettant en avant le potentiel de l'IA, nous repoussons les limites et incitons les autres à se joindre à nous.
+- **Inspire through innovation**: We believe in the power of inspiration and the ripple effect it has on creating a better future. By showcasing the potential of AI, we push boundaries and inspire others to join us.
 
-### Construire un écosystème local 🌿
+### Building a local ecosystem 🌿
 
-- **Favoriser la coopération** : Nous avons pour mission de créer un écosystème robuste de science des données qui rassemble des universitaires, des professionnels et des passionnés. En favorisant la collaboration, nous pouvons transformer le Bénin en une plaque tournante de la recherche et de l'innovation en matière d'IA.
+- **Fostering cooperation**: Our mission is to create a robust data science ecosystem that brings together academics, professionals and enthusiasts. By fostering collaboration, we can transform Benin into a hub for AI research and innovation.
 
-- **Soutien aux projets** : Nous soutenons et collaborons à des projets internationaux d'IA, offrant ainsi un laboratoire unique pour l'expérimentation et la découverte dans la région.
+- **Project support**: We support and collaborate on international AI projects, offering a unique laboratory for experimentation and discovery in the region.
 
-### Promouvoir l'IA au Bénin 🇧🇯
+### Promoting AI in Benin 🇧🇯
 
-- **Sensibilisation et intégration** : Nous nous engageons auprès des entreprises locales pour promouvoir l'intégration des technologies de l'IA. En sensibilisant aux capacités de transformation de l'IA, nous contribuons à améliorer la performance opérationnelle des entreprises et de l'économie au sens large.
+- **Awareness and integration**: We engage with local businesses to promote the integration of AI technologies. By raising awareness of AI's transformative capabilities, we help improve the operational performance of businesses and the wider economy.
 
-- **Plaidoyer pour l'IA** : Nous plaidons pour des politiques et des initiatives qui font progresser l'IA et la science des données au sein du Bénin, contribuant ainsi à la croissance nationale et à l'avancement technologique.
+- **Advocating for AI**: We advocate for policies and initiatives that advance AI and data science within Benin, contributing to national growth and technological advancement.
 
-## S'impliquer 🤝
+## Get involved 🤝
 
-Que vous soyez un passionné d'IA, un professionnel ou simplement curieux des possibilités offertes par l'IA, nous vous invitons à rejoindre notre communauté. Voici comment vous pouvez vous impliquer :
+Whether you're an AI enthusiast, a professional or simply curious about the possibilities offered by AI, we invite you to join our community. Here's how you can get involved:
 
-- **Suivez-nous** sur [notre Site Web](https://isheero.com), [YouTube](https://www.youtube.com/@isheero) et [LinkedIn](https://linkedin.com/company/isheero) pour les mises à jour et les événements.
-- **Rejoignez nos Meetups** pour des ateliers, des formations et des opportunités de réseautage.
-- **Contribuez ou devenez bénévole** : Participez à nos initiatives et aidez-nous à avoir un impact tangible.
+- **Follow us** on [our Website](https://isheero.com), [YouTube](https://www.youtube.com/@isheero) and [LinkedIn](https://linkedin.com/company/isheero) for updates and events.
+- **Join our Meetups** for workshops, training and networking opportunities.
+- **Contribute or volunteer**: Participate in our initiatives and help us make a tangible impact.
 
-Nous croyons que grâce à un effort collectif et une vision partagée, le Bénin et l'Afrique francophone peuvent ouvrir la voie à l'innovation et à l'application de l'IA.
+We believe that through collective effort and a shared vision, Benin and French-speaking Africa can lead the way in AI innovation and application.
 
 <br>
 <div align="center">
